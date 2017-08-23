@@ -1,0 +1,20 @@
+{
+    "scanTimeInterval": "3600",
+    "sensorConfig": [
+        {
+            "name": "microphone",
+            "audioFlicker": {
+                "secondsBeforeFlicker": 10,
+                "secondsAfterFlicker": 5
+            }
+        },
+        {
+            "name": "acceleroMeter",
+            "orientation": {
+                "xValue": true,
+                "yValue": true,
+                "zValue": false
+            }
+        }
+    ]
+}

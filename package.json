@@ -1,0 +1,14 @@
+{
+  "name": "aws_iot",
+  "version": "1.0.0",
+  "description": "iot related stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav shukla",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.0.1"
+  }
+}
